@@ -1,0 +1,13 @@
+git clone https://github.com/your-username/RAM-Design-CODTECH.git
+cd RAM-Design-CODTECH
+
+mkdir src testbench reports
+
+# Copy your files
+cp /path/to/ram.v src/
+cp /path/to/ram_tb.v testbench/
+cp /path/to/simulation_report.pdf reports/
+
+git add .
+git commit -m "Added RAM design, testbench, and simulation report"
+git push
