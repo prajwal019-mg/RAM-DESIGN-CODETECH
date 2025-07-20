@@ -13,4 +13,4 @@ Design a simple synchronous RAM module with read and write operations.
 - ModelSim / Vivado / Icarus Verilog for simulation
 
 ## Author
-CHANDU
+PRAJWAL
